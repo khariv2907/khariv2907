@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Khariv</h1>
-<h3 align="center">Middle PHP developer working at bvblogic</h3>
+<h3 align="center">Middle PHP Developer</h3>
 <hr>
 <h3>Links:</h3>
 <ul>
