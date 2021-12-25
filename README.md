@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ivan Khariv</h1>
-<h3 align="center">Middle PHP Developer</h3>
+<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h3 align="center">PHP Developer</h3>
 <hr>
 <h3>Links:</h3>
 <ul>
-  <li>My CV: https://khariv2907.github.io/cv/</li>
-  <li>Demonstration project (In Progress): https://github.com/khariv2907/career.laravel</li>
+  <li>Demonstration project: https://github.com/khariv2907/laravel.review</li>
   <li>Demonstration Laradock project: https://github.com/khariv2907/career.laradock</li>
 </ul>
 
